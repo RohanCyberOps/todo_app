@@ -16,7 +16,7 @@ Welcome to the **To-Do List Application**! This simple yet powerful app allows y
 
 ## 📸 Demo
 
-![To-Do List Screenshot](screenshot.png)  
+![To-Do List Screenshot](todo.png)  
 *Here’s a glimpse of how the To-Do List Application works! Add, view, and manage your tasks effortlessly.*
 
 ---
@@ -46,7 +46,7 @@ pip install Flask
 Clone the repository or download the zip file:
 
 ```bash
-git clone 
+git clone https://github.com/chrohangurjar1/todo_app.git
 ```
 
 ### 🏃 Run the Application
